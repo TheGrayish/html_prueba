@@ -1,0 +1,60 @@
+h1{
+    color:brown;
+}
+
+table, th, td{
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+
+    th, td{
+        padding: 10px;
+        background-color:beige;
+    }
+
+    * {
+        margin: 10;
+        padding: 10;
+        box-sizing: border-box; 
+    }
+
+    body{
+        background: beige;
+    }
+
+    .seleccionar{
+        margin-top: 20px;
+        padding: 50px;
+        border-radius: 4px; 
+    }
+
+    .form-register{
+        width: 400px;
+        background: wheat;
+        padding: 30px;
+        margin: auto;
+        margin-top: 100px;
+        border-radius: 4px;
+        font-family: 'calibri';
+    }
+
+    .controls{
+        width: 100%;
+        background: azure;
+        padding: 10px;
+        border-radius: 4px;
+        margin-bottom: 16px;
+        font-family: 'calibri';
+        font-size: 18px;
+    }
+
+    
+
+    .form-register .botons{
+        width: 100%;
+        background: coral;
+        border: none;
+        padding: 12px;
+        font-size: 16px;
+
+    }
