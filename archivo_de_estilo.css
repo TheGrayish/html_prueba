@@ -1,3 +1,5 @@
+/*hola mundo*/
+
 h1{
     color:brown;
 }
@@ -12,7 +14,7 @@ table, th, td{
         background-color:beige;
     }
 
-    * {
+   * {
         margin: 10;
         padding: 10;
         box-sizing: border-box; 
